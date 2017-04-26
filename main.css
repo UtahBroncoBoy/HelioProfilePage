@@ -1,0 +1,74 @@
+* {
+  font-family: sans-serif;
+}
+
+html {
+  color: #cdcdcd;
+}
+
+body {
+  margin: 0% 10% auto;
+  background-color: #3a393a;
+}
+
+h1, h2 {
+  color: #ffc01f;
+}
+
+img {
+  margin: 0px 40px 0px 0px ;
+}
+
+figure {
+  width: 15%;
+}
+
+[floatLeft] {
+  float: left;
+}
+
+[floatRight] {
+  float: right;
+}
+
+section[introduction]{
+  margin: 50px 100px 50px 100px;
+  overflow: auto;
+}
+
+article[reasons] {
+  width: 50%;
+  display: block;
+}
+
+section[technology] {
+  margin: 50px;
+  overflow: auto;
+}
+
+section[excited] {
+  clear: both;
+  margin: 50px 100px 50px 100px;
+}
+
+[card] {
+  background-color: #545353;
+  padding: 30px;
+}
+
+img[logo] {
+  display: block;
+  margin: 0 auto;
+}
+
+img[technologyLogo] {
+  height: 100px;
+}
+
+#jeffphoto {
+  width: 35%;
+}
+
+
+
+
